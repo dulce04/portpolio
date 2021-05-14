@@ -626,7 +626,7 @@ figure.portfolio_hov img {
 }
 
 /*768px*/
-@media screen and (max-width:768px) {'
+@media screen and (max-width:768px) {
    .btn_scroll_down{
       bottom:90px;
    }
