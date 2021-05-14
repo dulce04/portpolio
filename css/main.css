@@ -841,7 +841,7 @@ footer.show nav li:nth-child(4) {
 /*768px*/
 @media screen and (max-width:768px) {
    .btn_scroll_down{
-      bottom:60px;
+      bottom:80px;
    }
    .main_slide {
       height: 665px;
